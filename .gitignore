@@ -1,0 +1,7 @@
+annotations
+train2017
+val2017
+mmdetection/docker
+mmdetection/demo
+mmdetection/configs
+mmdetection/mmdet
