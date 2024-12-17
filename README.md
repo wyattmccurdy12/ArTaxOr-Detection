@@ -17,3 +17,6 @@ Now for the specifics of the conda environment:
 - mim install "mmcv>=2.0.0,<2.1.0"
 - cd [your path here]/mmdetection
 - pip install -e .
+
+
+This notebook https://colab.research.google.com/drive/16LG0HZh6LZZIGjM6Mu75M0YJhOOmXx-C?usp=sharing has an updated version of the methods needed to get the environment set up. Unfortunately, I couldn't get the training loop to run on my system or the lab servers. Google colab seems to be able to supply the correct torch and cuda environment for this combination of dependencies.
