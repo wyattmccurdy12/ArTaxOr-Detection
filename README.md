@@ -24,3 +24,7 @@ This notebook https://colab.research.google.com/drive/16LG0HZh6LZZIGjM6Mu75M0YJh
 Additionally, there is one issue with this dependency combination that must be fixed using this workaround: https://github.com/HarborYuan/mmcv_16/commit/ad1a72fe0cbeead2716706ff618dfa0269d2cf4c#diff-81dbb11b498245309d65fe18b43ae273051bde5db6001c09de61086023d5b5b7R8
 
 Hopefully, this will allow a user to run the notebook. Note, that it is rather cumbersome to run and takes time and compute units.
+
+## Not all of the files used could be included in this repository
+I cloned a couple of large repos to google drive, and they were not easily transferrable to my own github. The cloned repos are referenced in my Colab Notebook (above). I have included files here that are essential to the changes I made to FocalNet in order to run it for my own dataset. 
+
